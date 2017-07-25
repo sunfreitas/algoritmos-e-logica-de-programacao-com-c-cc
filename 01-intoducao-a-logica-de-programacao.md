@@ -1,6 +1,6 @@
 ## Introdução à Lógica de Programação
 
-### PROGRAMAS DE COMPUTADOR
+### DESENVOLVIMENTO DE SOFTWARES
 Antes de iniciarmos nossos estudos com algorítmos é importante entender o que são programas de computador e como este 
 os executa.
 
@@ -9,6 +9,9 @@ os executa.
 #### Memória
 
 #### Entrada, Processamento e Saída
+
+### COMPILADORES
+Como dito anteriormente, uma máquina processa seus dados de forma binária - utilizando 0s e 1s. Um programa de computador escrito por uma pessoa precisa ser traduzido para  
 
 ### O QUE É LÓGICA DE PROGRAMAÇÃO
 
@@ -23,4 +26,4 @@ Costuma-se utilizar a analogia com receitas culinárias, que são na realidade e
 
 
 ### DIAGRAMA DE BLOCOS OU FLUXOGRAMAS
-Para um algoritmo ser útil, deve ser entendido da mesma forma por todas as pessoas que o utilizarem. Uma maneira de formalizar a representação de um algoritmo 
+Para um algoritmo ser útil, deve ser entendido da mesma forma por todas as pessoas que o utilizarem. Uma maneira de formalizar a representação de um algoritmo é utilizando um fluxograma. Um fluxograma possui um conjunto de símbolos convencionados para representar a entrada/saída de dados, processamento, condições, etc. dentro de um algoritmo.
