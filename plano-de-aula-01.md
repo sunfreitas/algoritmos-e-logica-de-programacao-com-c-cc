@@ -46,4 +46,5 @@ e desenvolvimento de algoritmos.
 ##### 09. Estruturas de Repetição III (2h)
 * Para-Até-Faça;
 
-##### 10. Estruturas de Repetição II (2h)
+##### 10. Subrotinas (2h)
+* Funções: declaração, parãmetros, estrutura e retornos. Execução de funções criadas pelo programador e nativas da linguagem.
